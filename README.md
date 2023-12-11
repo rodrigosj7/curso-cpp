@@ -8,7 +8,7 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
-  ![Aulas Realizadas](https://img.shields.io/badge/Aulas_realizadas-7%2F19-blue)
+  ![Aulas Realizadas](https://img.shields.io/badge/Aulas_realizadas-8%2F19-blue)
 </div>
 
 Repositório para meus estudos de C++. Neste repositório pretendo colocar os arquivos utilizados e programas feitos durante a realização do curso.
