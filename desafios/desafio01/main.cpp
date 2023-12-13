@@ -29,6 +29,5 @@ int main() {
 
   cout << "Please type an valid number!!" << endl;
 
-
   return 0;
 }
